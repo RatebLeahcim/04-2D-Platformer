@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/yt5s.com - Itty Bitty 8 Bit (128 kbps).mp3-c708ad0c5674a2d5683c5103e0bb2b68.mp3str"
+
+[deps]
+
+source_file="res://Assets/yt5s.com - Itty Bitty 8 Bit (128 kbps).mp3"
+dest_files=[ "res://.import/yt5s.com - Itty Bitty 8 Bit (128 kbps).mp3-c708ad0c5674a2d5683c5103e0bb2b68.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

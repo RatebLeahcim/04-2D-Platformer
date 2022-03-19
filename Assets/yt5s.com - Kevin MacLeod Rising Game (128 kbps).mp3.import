@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/yt5s.com - Kevin MacLeod Rising Game (128 kbps).mp3-7b99f035964c5c3012e10672194715f6.mp3str"
+
+[deps]
+
+source_file="res://Assets/yt5s.com - Kevin MacLeod Rising Game (128 kbps).mp3"
+dest_files=[ "res://.import/yt5s.com - Kevin MacLeod Rising Game (128 kbps).mp3-7b99f035964c5c3012e10672194715f6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
